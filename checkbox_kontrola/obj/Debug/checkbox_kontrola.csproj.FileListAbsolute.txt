@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\bin\Debug\checkbox_kontrola.exe.config
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\bin\Debug\checkbox_kontrola.exe
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\bin\Debug\checkbox_kontrola.pdb
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.Form1.resources
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.Properties.Resources.resources
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.exe
+C:\Users\sebas\source\repos\checkbox_kontrola\checkbox_kontrola\obj\Debug\checkbox_kontrola.pdb
